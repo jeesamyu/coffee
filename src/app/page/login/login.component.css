@@ -1,0 +1,13 @@
+body{
+    height:600px;
+    width: 500px;
+    background: linear-gradient(70deg,white,black);
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+.total{
+    position: fixed;
+    top: 150px;
+    left: 600px;
+    
+}
